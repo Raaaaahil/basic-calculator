@@ -10,10 +10,10 @@ This is a simple calculator program written in C that performs basic mathematica
 ## How to Run the Program  
 
 1. **Compile the Code**  
-   Use this command in the terminal: gcc basic_calculator.c -o calculator -lm
+   Use this command in the terminal: gcc basic_calculator.c 
 
 2. **Run the Program**  
-Execute the program using: ./calculator
+   Execute the program using: ./calculator or ./a.exe or ./a.out
 
 ## Sample Output :
  
